@@ -8,9 +8,9 @@ I'am also a boardgame addict ! Rolling dice, drafting cards and establishing the
 
 ## Some surprising skills
 
-- Expatriate myself for two years in Australia and traveling around Asia. Working in a tuna factory for 2 month, 7 day a weeks, was quite fun and intense. Do you know that I was washing huge yellow thin tuna with toilet brush putted on a drill. 
-- History addict. I've study Early Modern Period at the univeristy. Do you have a question about how was the tourism in the 18th century. I can tell you a lot of about that period. 
+- History addict. I've study Early Modern Period at Univeristy. Do you have a question about how was the tourism in the 18th century. I can tell you a lot of about that period. 
 - I like trekking ! It's an active way to get out of the wild of human society and go exploring the nature in a soft way. I just grab my backpack with some gears and food and lets go ! After a full day of hiking I just settle down and prepare the camp site. On of the best camp site ever was in Italy in a riverbed. 
+- Expatriate myself for two years in Australia and traveling around Asia. Working in a tuna factory for 2 month, 7 day a weeks, was quite fun and intense. Do you know that I was washing huge yellow thin tuna with toilet brush putted on a drill. 
 
 ### My goals
 
@@ -19,7 +19,7 @@ I would like to be able to use and handle some languages. At the moment, I am no
 
 **The languages I have already studied :**
 
-![Alt](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language#/media/Fichier:HTML5_logo_and_wordmark.svg)
-![Alt](https://www.so-peps.com/wp-content/uploads/2016/03/css-logo.png)
-![Alt](https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.png)
+HTML 
+CSS
+JS
 
