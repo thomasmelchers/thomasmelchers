@@ -19,7 +19,5 @@ I would like to be able to use and handle some languages. At the moment, I am no
 
 **The languages I have already studied :**
 
-HTML 
-CSS
-JS
+![Alt](html.png)| ![Alt](css.png) | ![Alt](JS.png)
 
