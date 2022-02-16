@@ -39,4 +39,4 @@ I would like to be able to use and handle some languages. At the moment, I am no
 	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmelchers&theme=prussian&show_icons=true)
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmelchers)](https://github.com/anuraghazra/github-readme-stats)
