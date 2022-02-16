@@ -19,5 +19,4 @@ I would like to be able to use and handle some languages. At the moment, I am no
 
 ## The languages I have already studied
 
-![Alt](html.png)| ![Alt](css.png) | ![Alt](JS.png)
- --- | --- | ---
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
