@@ -5,7 +5,7 @@
 I'am **Thomas**. A Brussels guy who loves traveling around the world and meeting new cultures. The travel I like the most are *adventure-travel*. It's exploring wild wide space by doing some treks and walkings, bycycling around the area and trying to get lost, encountering locals and other travelers, discovering local foods and tasting some streetfoods. 
 I'am also a boardgame addict ! Rolling dice, drafting cards and establishing the best strategy to make a huge win move ! This addiction drives me with some friends to create a NPO focus on animation of boardgames events in Brussels. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmelchers)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmelchers&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Some surprising skills
