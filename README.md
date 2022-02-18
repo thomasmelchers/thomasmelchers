@@ -1,6 +1,6 @@
 # Hey 
 
-### I'am *Thomas*, a junior Back-End Developer who loves playing with data and challenging himself with new coding projects**
+### I'am **Thomas**, a junior Back-End Developer who loves playing with data and challenging himself with new coding projects
 
 
 
