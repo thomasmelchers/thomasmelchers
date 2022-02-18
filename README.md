@@ -1,8 +1,8 @@
 # Hey 
 
-**I'am *Thomas*, a junior Back-End Developer who loves playing with data and challenging himself with new coding projects**
+### I'am *Thomas*, a junior Back-End Developer who loves playing with data and challenging himself with new coding projects**
 
-***
+
 
 My background turns around the cultural and the touristic sectors as writting historical notes, promoting guided tours or setting up lots of events. My passion about traveling and meeting foreign cultures drives me to Australia where I expatriate myself for two years and then to other Asian & Pacific countries. Due to the outbreak, I stop my travel-adventures and settle down in Brussels where I write a new page and focus on a new challenge at [BeCode](https://becode.org/). Coding was obviousness ! I have always been attracted by creating web applications and experienced throw several projects as for a cultural association during my university studies, or for developping the professionnal activity of friend and some personal one, 
 
