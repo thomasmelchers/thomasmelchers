@@ -1,47 +1,35 @@
-# Thomas MELCHERS
+# Hey 
 
-**Hey There!** 
+**I'am *Thomas*, a junior Back-End Developer who loves playing with data and challenging himself with new coding projects**
 
-I'am **Thomas**. A Brussels guy who loves traveling around the world and meeting new cultures. The travel I like the most are *adventure-travel*. It's exploring wild wide space by doing some treks and walkings, bycycling around the area and trying to get lost, encountering locals and other travelers, discovering local foods and tasting some streetfoods. 
-I'am also a boardgame addict ! Rolling dice, drafting cards and establishing the best strategy to make a huge win move ! This addiction drives me with some friends to create a NPO focus on animation of boardgames events in Brussels. 
+***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmelchers&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmelchers&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
+My background turns around the cultural and the touristic sectors as writting historical notes, promoting guided tours or setting up lots of events. My passion about traveling and meeting foreign cultures drives me to Australia where I expatriate myself for two years and then to other Asian & Pacific countries. Due to the outbreak, I stop my travel-adventures and settle down in Brussels where I write a new page and focus on a new challenge at [BeCode](https://becode.org/). Coding was obviousness ! I have always been attracted by creating web applications and experienced throw several projects as for a cultural association during my university studies, or for developping the professionnal activity of friend and some personal one, 
 
 ## Some surprising skills
 
-- History addict. I've study Early Modern Period at Univeristy. Do you have a question about how was the tourism in the 18th century. I can tell you a lot of about that period. 
-- I like trekking ! It's an active way to get out of the wild of human society and go exploring the nature in a soft way. I just grab my backpack with some gears and food and lets go ! After a full day of hiking I just settle down and prepare the camp site. On of the best camp site ever was in Italy in a riverbed. 
-- Expatriate myself for two years in Australia and traveling around Asia. Working in a tuna factory for 2 month, 7 day a weeks, was quite fun and intense. Do you know that I was washing huge yellow thin tuna with toilet brush putted on a drill. 
+- History addict. I've study Early Modern Period at Univeristy. Do you have a question about how was the tourism in the 18th century. Grab a seat, I can tell you a lots about it. 
+- I like trekking ! It's an active way to get out of the wild of human society and go exploring the nature in a soft way. I just grab my backpack with some gears and food and let's go ! After a full day of hiking I just want to settle down and building the camp site on a stunning spot.  
+- I'am also a boardgame addict ! Rolling dice, drafting cards and establishing the best strategy to make a huge win move ! This addiction drives me with some friends to create a NPO focus on animation of boardgames events once a month.
 
-## My goals
+## The Tech Part
 
-The goal I want to achieve when I start the formation at BeCode is to become a fullstack Web Developper and gets some new skills to reorientted myself to a disciple which will have some great future. 
-I would like to be able to use and handle some languages. At the moment, I am not totaly sure about wich part (front or back) of the developpement I want to learn. The think I know is that I want to be creative and start from scratch to build something new. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmelchers&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmelchers&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-## The languages I have already studied
+### The technologies I handle
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Some Frameworks
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+### Libraries & CMS
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Container & Deployement
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-		![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-	
-	
+### The Technologies I want to learn
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
