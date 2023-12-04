@@ -1,6 +1,6 @@
 # Hey 
 
-### I'am **Thomas**, a junior Back-End Developer who loves playing with data and challenging himself with new coding projects
+### I'am **Thomas**, a junior software Developer who loves playing with data and challenging himself with new coding projects
 
 
 
@@ -30,6 +30,8 @@ My background turns around the cultural and the touristic sectors as writting hi
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Container & Deployement
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### The Technologies I want to learn
