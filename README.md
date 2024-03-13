@@ -10,7 +10,7 @@ My background turns around the cultural and the touristic sectors as writting hi
 
 - History addict. I've study Early Modern Period at Univeristy. Do you have a question about how was the tourism in the 18th century. Grab a seat, I can tell you a lots about it. 
 - I like trekking ! It's an active way to get out in the wild and exploring the nature in a friendly way. I just need to grab my backpack with some gears and food and let's go ! After a full day of hiking I just want to rest, have some nice food and building the camp site on a stunning spot.  
-- I'am also a boardgame addict ! Rolling dice, drafting cards and establishing the best strategy to make a huge win move ! This addiction drives me with some friends to create a NPO focus on animation of boardgames events once a month.
+- I'am also a boardgame addict ! Rolling dice, drafting cards and establishing the best strategy to make a huge win move ! This addiction drives me with some friends to create a NPO focus on boardgames presenting once a month.
 
 ## The Tech Part
 
